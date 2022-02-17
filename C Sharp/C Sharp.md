@@ -1,0 +1,4 @@
+- Scene window is what you see on the screen.
+- Game window is what you see if you play the game
+- Heinarchy is a inventory list of everything that is in the scene
+- 

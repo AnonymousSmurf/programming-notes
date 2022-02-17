@@ -1,0 +1,2 @@
+# Automatic Scroll Restoration
+The ability to restore scroll position is often critical for website usability. It helps users keep the flow of navigation when going back and forth between different pages. Most modern browsers take care of restoring the scroll position automatically, but it doesn’t always work for Single Page Applications where the content is generated on the client’s side, often asynchronously.
